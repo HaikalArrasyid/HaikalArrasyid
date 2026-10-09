@@ -1,76 +1,78 @@
-<div align="center">
-  <code>
-    <b>~</b> ❯ whoami<br/>
-    Full Stack Developer & Visual Creator<br/>
-    <b>~</b> ❯ location<br/>
-    Malang, Indonesia 🇮🇩<br/>
-    <b>~</b> ❯ education<br/>
-    Software Engineering Student @ SMK Telkom Malang<br/>
-  </code>
-</div>
+<h1 align="center">Haikal Arrasyid</h1>
+<p align="center">Junior Fullstack Developer · Photographer</p>
 
-<br />
+<br/>
 
-<div align="center">
-  <a href="https://namakuhaikal.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-namakuhaikal.dev-0B1220?style=for-the-badge&logo=vercel"></a>
-  <a href="https://linkedin.com/in/haikal-arrasyid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/HaikalArrasyid"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
-</div>
+## About
 
-## 👨💻 About Me
+Software Engineering student at SMK Telkom Malang, currently building fullstack web applications with Next.js and NestJS. Also does professional photography and videography on the side. Enjoys creating things from scratch and collaborating with teams to ship real products.
 
-Software Engineering student at **SMK Telkom Malang** focused on Fullstack Web Development (Next.js & NestJS). Beyond coding, I am also an active **Photographer and Videographer**. I love combining technology and visual arts to build impactful applications and capture meaningful moments.
+<br/>
 
-> *"Leveraging code to solve problems, and visuals to tell stories."*
+## Contact
 
-Check out my full coding projects and visual photography/videography portfolio at **[namakuhaikal.dev](https://namakuhaikal.dev)**.
-
-## 🛠️ Tech Stack & Creative Tools
-
-**Frontend & Backend**  
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1E293B?style=for-the-badge&logo=nestjs&logoColor=E0234E">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=339933">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white">
+  <a href="mailto:arasyidhaikal00@gmail.com"><img src="https://img.shields.io/badge/Email-arasyidhaikal00@gmail.com-1E293B?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://instagram.com/namakuhaikall"><img src="https://img.shields.io/badge/Instagram-@namakuhaikall-1E293B?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/haikal-arrasyid"><img src="https://img.shields.io/badge/LinkedIn-haikal--arrasyid-1E293B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://namakuhaikal.dev"><img src="https://img.shields.io/badge/Portfolio-namakuhaikal.dev-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
-**Creative & Development Tools**  
+<br/>
+
+## Tech Stack
+
+**Development**
+
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-1E293B?style=for-the-badge&logo=figma&logoColor=F24E1E">
-  <img alt="Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-1E293B?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF">
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere_Pro-1E293B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF">
+  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/NestJS-1E293B?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS">
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Laravel-1E293B?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
 </p>
 
-## 🚀 Projects & Highlights
+**Design and Tools**
 
-Here is a glimpse of my recent work. To explore my complete software projects and photography gallery, head over to my [portfolio website](https://namakuhaikal.dev).
+<p>
+  <img src="https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/Lightroom-1E293B?style=flat-square&logo=adobelightroom&logoColor=31A8FF" alt="Lightroom">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-1E293B?style=flat-square&logo=davinciresolve&logoColor=FF4A4A" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/CapCut-1E293B?style=flat-square&logo=capcut&logoColor=white" alt="CapCut">
+  <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
-- **urSpace** — Fullstack Coworking space platform featuring schedule validation & QR Code e-tickets (Next.js, Laravel).
-- **Taskflow** — Scalable task management application with dynamic workflows and roles (Next.js, NestJS).
-- **Trainbook** — Train ticket reserve platform with real-time schedules (Next.js, NestJS).
-- **Quizit** — Interactive quiz app with client-side state persistence (React.js, OpenTDB).
-- **SMK Telkom Web Revamp** — Contributed both frontend development and professional photography assets.
+<br/>
 
-## 🏆 Honors & Certifications
-
-- **Awards:** KSN 2026 Finalist (Badan Standardisasi Nasional), MIC 2025 Finalist (SMK Telkom Malang), JHIC 2025 Semi-Finalist.
-- **Certifications:** Problem Solving Basic (HackerRank), Web Development (SkilVul), English Competence (Anthropic).
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaikalArrasyid&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalArrasyid&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=HaikalArrasyid&hide_border=true&theme=tokyonight" />
 </div>
 
 <br/>
-<p align="center">
-  <i>Building high-quality applications at the intersection of modern web development and creative media.</i>
+
+## Recent Projects
+
+**urSpace** - Coworking space booking platform with QR code e-tickets
+<br/>
+**Taskflow** - Task management app with dynamic workflows and permissions
+<br/>
+**Trainbook** - Online train ticket reservation system with real-time schedules
+
+<br/>
+
+<p>
+  See my full portfolio including photography and videography work at <a href="https://namakuhaikal.dev"><strong>namakuhaikal.dev</strong></a>
 </p>
