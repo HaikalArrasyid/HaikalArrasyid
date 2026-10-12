@@ -40,6 +40,7 @@ Software Engineering student at SMK Telkom Malang, currently focused on fullstac
   <img src="https://img.shields.io/badge/Firebase-1E293B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
   <img src="https://img.shields.io/badge/Cloudinary-1E293B?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary">
   <img src="https://img.shields.io/badge/Railway-1E293B?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
+  <img src="https://img.shields.io/badge/Playwright-1E293B?style=for-the-badge&logo=playwright&logoColor=45ba4b" alt="Playwright">
 </p>
 
 **Design and Tools**
