@@ -1,0 +1,42 @@
+name: Update Monthly Commit Recap
+
+on:
+  schedule:
+    # Runs at 00:00 UTC (07:00 WIB) every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/scripts/update-recap.js'
+
+permissions:
+  contents: write
+
+jobs:
+  update-recap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run recap generator
+        run: node .github/scripts/update-recap.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/monthly-recap.svg
+          if git diff --staged --quiet; then
+            echo "No changes detected in monthly recap SVG."
+          else
+            git commit -m "chore: update monthly commit recap [skip ci]"
+            git push
+          fi

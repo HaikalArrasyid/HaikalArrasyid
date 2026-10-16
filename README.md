@@ -84,9 +84,9 @@ Software Engineering student at SMK Telkom Malang, currently focused on fullstac
 
 ---
 
-## GitHub Stats
+## Activity & Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaikalArrasyid&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160em" src="./assets/monthly-recap.svg" alt="Monthly Commit Recap" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalArrasyid&layout=compact&hide_border=true&theme=tokyonight&hide=html" />
 </div>
