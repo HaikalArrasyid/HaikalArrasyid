@@ -40,23 +40,23 @@
     <text x="26" y="14" class="header">Monthly Activity Recap</text>
   </g>
 
-  <!-- Box 1: Bulan Ini -->
+  <!-- Box 1: This Month -->
   <g transform="translate(20, 48)">
     <rect width="145" height="92" class="card-box" />
-    <text x="14" y="22" class="label">Bulan Ini</text>
-    <text x="14" y="36" class="sub">Oktober 2026</text>
+    <text x="14" y="22" class="label">This Month</text>
+    <text x="14" y="36" class="sub">October 2026</text>
     <text x="14" y="68" class="val">37</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="badge">+147% vs bulan lalu</text>
+    <text x="14" y="83" class="badge">+147% vs last month</text>
   </g>
 
-  <!-- Box 2: Bulan Lalu -->
+  <!-- Box 2: Last Month -->
   <g transform="translate(175, 48)">
     <rect width="145" height="92" class="card-box" />
-    <text x="14" y="22" class="label">Bulan Lalu</text>
+    <text x="14" y="22" class="label">Last Month</text>
     <text x="14" y="36" class="sub">September 2026</text>
     <text x="14" y="68" class="val-prev">15</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="sub">Periode selesai ✓</text>
+    <text x="14" y="83" class="sub">Completed ✓</text>
   </g>
 </svg>

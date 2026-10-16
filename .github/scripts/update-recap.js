@@ -4,8 +4,8 @@ const path = require('path');
 const USERNAME = 'HaikalArrasyid';
 
 const MONTH_NAMES = [
-  'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni',
-  'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December'
 ];
 
 async function fetchContributions() {
@@ -23,7 +23,7 @@ function generateSvg({ thisMonthName, thisMonthYear, thisMonthCount, lastMonthNa
     : 100;
   
   const growthSign = growth >= 0 ? '+' : '';
-  const growthBadge = `${growthSign}${growth}% vs bulan lalu`;
+  const growthBadge = `${growthSign}${growth}% vs last month`;
   const growthColor = growth >= 0 ? '#73daca' : '#f7768e';
 
   return `<svg
@@ -68,24 +68,24 @@ function generateSvg({ thisMonthName, thisMonthYear, thisMonthCount, lastMonthNa
     <text x="26" y="14" class="header">Monthly Activity Recap</text>
   </g>
 
-  <!-- Box 1: Bulan Ini -->
+  <!-- Box 1: This Month -->
   <g transform="translate(20, 48)">
     <rect width="145" height="92" class="card-box" />
-    <text x="14" y="22" class="label">Bulan Ini</text>
+    <text x="14" y="22" class="label">This Month</text>
     <text x="14" y="36" class="sub">${thisMonthName} ${thisMonthYear}</text>
     <text x="14" y="68" class="val">${thisMonthCount}</text>
     <text x="56" y="68" class="sub">commits</text>
     <text x="14" y="83" class="badge">${growthBadge}</text>
   </g>
 
-  <!-- Box 2: Bulan Lalu -->
+  <!-- Box 2: Last Month -->
   <g transform="translate(175, 48)">
     <rect width="145" height="92" class="card-box" />
-    <text x="14" y="22" class="label">Bulan Lalu</text>
+    <text x="14" y="22" class="label">Last Month</text>
     <text x="14" y="36" class="sub">${lastMonthName} ${lastMonthYear}</text>
     <text x="14" y="68" class="val-prev">${lastMonthCount}</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="sub">Periode selesai ✓</text>
+    <text x="14" y="83" class="sub">Completed ✓</text>
   </g>
 </svg>`;
 }
