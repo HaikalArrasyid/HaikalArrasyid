@@ -45,9 +45,9 @@
     <rect width="145" height="92" class="card-box" />
     <text x="14" y="22" class="label">This Month</text>
     <text x="14" y="36" class="sub">October 2026</text>
-    <text x="14" y="68" class="val">59</text>
+    <text x="14" y="68" class="val">96</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="badge">+293% vs last month</text>
+    <text x="14" y="83" class="badge">+317% vs last month</text>
   </g>
 
   <!-- Box 2: Last Month -->
@@ -55,7 +55,7 @@
     <rect width="145" height="92" class="card-box" />
     <text x="14" y="22" class="label">Last Month</text>
     <text x="14" y="36" class="sub">September 2026</text>
-    <text x="14" y="68" class="val-prev">15</text>
+    <text x="14" y="68" class="val-prev">23</text>
     <text x="56" y="68" class="sub">commits</text>
     <text x="14" y="83" class="sub">Completed ✓</text>
   </g>
