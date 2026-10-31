@@ -45,9 +45,9 @@
     <rect width="145" height="92" class="card-box" />
     <text x="14" y="22" class="label">This Month</text>
     <text x="14" y="36" class="sub">October 2026</text>
-    <text x="14" y="68" class="val">104</text>
+    <text x="14" y="68" class="val">106</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="badge">+352% vs last month</text>
+    <text x="14" y="83" class="badge">+361% vs last month</text>
   </g>
 
   <!-- Box 2: Last Month -->
