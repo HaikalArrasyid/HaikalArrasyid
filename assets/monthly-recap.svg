@@ -13,7 +13,7 @@
     .val { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #73daca; }
     .val-prev { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }
     .sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #787c99; }
-    .badge { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #73daca; }
+    .badge { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f7768e; }
     .card-box { fill: #1f2335; rx: 6px; }
   </style>
 
@@ -44,18 +44,18 @@
   <g transform="translate(20, 48)">
     <rect width="145" height="92" class="card-box" />
     <text x="14" y="22" class="label">This Month</text>
-    <text x="14" y="36" class="sub">October 2026</text>
-    <text x="14" y="68" class="val">106</text>
+    <text x="14" y="36" class="sub">November 2026</text>
+    <text x="14" y="68" class="val">0</text>
     <text x="56" y="68" class="sub">commits</text>
-    <text x="14" y="83" class="badge">+361% vs last month</text>
+    <text x="14" y="83" class="badge">-100% vs last month</text>
   </g>
 
   <!-- Box 2: Last Month -->
   <g transform="translate(175, 48)">
     <rect width="145" height="92" class="card-box" />
     <text x="14" y="22" class="label">Last Month</text>
-    <text x="14" y="36" class="sub">September 2026</text>
-    <text x="14" y="68" class="val-prev">23</text>
+    <text x="14" y="36" class="sub">October 2026</text>
+    <text x="14" y="68" class="val-prev">106</text>
     <text x="56" y="68" class="sub">commits</text>
     <text x="14" y="83" class="sub">Completed ✓</text>
   </g>
