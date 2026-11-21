@@ -26,6 +26,7 @@ Software Engineering student at SMK Telkom Malang, currently focused on fullstac
   <img src="https://img.shields.io/badge/CSS-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Go-1E293B?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go">
   <img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/ReactBits-1E293B?style=for-the-badge" alt="ReactBits">
